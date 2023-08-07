@@ -5,4 +5,4 @@ CS3: Software Development, we spent the first 5 weeks of the course developing a
 This project was done in C.
 
 The final result is a 2-player, PvP tank game in which each player is represented by a tank. Both players begin on opposing sides of the landscape that divides them.
-The players are then able to take turns either moving, shooting at the landscape and the other player, or collecting power-ups.
+The players are then able to take turns either moving, shooting at the landscape and the other player, or collecting power-ups. Player movement is done with the arrow keys and aiming is done with the WASD keys. SPACE to shoot.
